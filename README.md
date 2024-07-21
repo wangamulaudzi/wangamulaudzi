@@ -1,9 +1,31 @@
-### Greetings!
+# 👋 Hi there! I'm Wanga.
 
-I am a Data Scientist and Machine Learning Engineer who specialized in Astrophysics. 
+Data Scientist with an Astrophysics background.
 
-- 🔭 I have recently graduated from the Le Wagon Data Science Bootcamp in Amsterdam.
-- 🌱 I am proficient in Data Science with Python; Data Analytics with SQL, Pandas, NumPy, and Matplotlib; Statistics with Scipy, Seaborn and Statsmodels; Machine Learning with Scikit-learn; Deep Learning with TensorFlow Keras..
-- 👯 I’m looking to collaborate on projects that can help me grow within ML and AI Engineering.
+## 🚀 Background
+
+- 🎓 Graduate: Le Wagon Data Science Bootcamp, Amsterdam
+- 🌌 Contributed to the first-ever black hole image project
+- 🌱 Focusing on Data Science ML and AI Engineering advancements
+
+## 💻 Tech Stack
+
+- 🐍 Python for Data Science
+- 📊 SQL, Pandas, NumPy, Matplotlib
+- 📈 Scipy, Seaborn, Statsmodels
+- 🤖 Scikit-learn
+- 🧠 TensorFlow Keras
+
+## 🌟 Recent Projects
+
+1. **Carbon Emissions Analyzer**: Automated extraction and analysis of emissions data from spreadsheets
+2. **Deepfake Detector**: Developed a tool to identify AI-generated pictures of people
+
+## 🔭 Looking Forward
+
+Seeking collaborations on innovative Data Science, ML and AI projects. Got an idea? Let's chat!
+
+## 👤 Quick Facts
+
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I worked with the team that took the very first picture of a black hole! Ask me anything about it.
+- ⚡ Fun fact: I was part of the Event Horizon Telescope collaboration that took the first picture of a black hole!
