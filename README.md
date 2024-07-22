@@ -20,6 +20,7 @@ Data Scientist with an Astrophysics background.
 
 1. **Carbon Emissions Analyzer**: Automated extraction and analysis of emissions data from spreadsheets
 2. **Deepfake Detector**: Developed a tool to identify AI-generated pictures of people
+3. **World Happiness Report Analyzer**: Analyzed the World Happiness Report data using Data Science principles
 
 ## 🔭 Looking Forward
 
