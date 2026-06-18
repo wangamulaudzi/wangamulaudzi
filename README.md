@@ -1,32 +1,11 @@
-# 👋 Hi there! I'm Wanga.
+# Hi 👋
 
-Data Scientist with an Astrophysics background.
+Data Engineer & AI Engineer with an Astrophysics background.
 
-## 🚀 Background
+Currently at Artefact, building end-to-end data platforms and Agentic AI systems.
 
-- 🎓 Graduate: Le Wagon Data Science Bootcamp, Amsterdam
-- 🌌 Contributed to the first-ever black hole image project
-- 🌱 Focusing on Data Science ML and AI Engineering advancements
+🌌 Event Horizon Telescope collaborator (first black hole image)
 
-## 💻 Tech Stack
+💻 Python • SQL • dbt • Databricks • GCP • Azure • AWS • PydanticAI
 
-- 🐍 Python for Data Science
-- 📊 SQL, Pandas, NumPy, Matplotlib
-- 📈 Scipy, Seaborn, Statsmodels
-- 🤖 Scikit-learn
-- 🧠 TensorFlow Keras
-
-## 🌟 Recent Projects
-
-1. **Carbon Emissions Analyzer**: Automated extraction and analysis of emissions data from spreadsheets
-2. **Deepfake Detector**: Developed a tool to identify AI-generated pictures of people
-3. **World Happiness Report Analyzer**: Analyzed the World Happiness Report data using Data Science principles
-
-## 🔭 Looking Forward
-
-Seeking collaborations on innovative Data Science, ML and AI projects. Got an idea? Let's chat!
-
-## 👤 Quick Facts
-
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I was part of the Event Horizon Telescope collaboration that took the first picture of a black hole!
+Interested in data platforms, AI systems and building products that make data useful.
