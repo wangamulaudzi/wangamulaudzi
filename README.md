@@ -1,4 +1,4 @@
-# Hi 👋
+# Hello!
 
 Data Engineer & AI Engineer with an Astrophysics background.
 
